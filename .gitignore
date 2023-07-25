@@ -1,3 +1,4 @@
 node_modules
 .next
 .amplifybundle
+.DS_Store
